@@ -10,14 +10,14 @@ Data Analytics Enthusiast | Python | Machine Learning
 
 💬 Ask me about **Python, Data Analysis, ML**
 
-📫 Reach me at: **your-email@gmail.com**
+📫 Reach me at: **sinmorepalak@gmail.com**
 
 ---
 
 ## 🚀 Skills
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,pandas,numpy,js,react,mysql,git,figma" />
+<img src="https://skillicons.dev/icons?i=python,pandas,numpy,js,react,mysql,git" />
 </p>
 
 ---
