@@ -45,7 +45,7 @@ Data Analytics Enthusiast | Python Learner | BTech Student
 <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram"/>
 </a>
 
-<a href="https://linkedin.com/palaksinmore">
+<a href="https://linkedin.com/Palak Sinmore">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -69,12 +69,4 @@ Data Analytics Enthusiast | Python Learner | BTech Student
 
 ---
 
-# 📈 Contribution Graph
 
-[![Palak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=palaksinmore-git1&theme=tokyo-night)](https://github.com/palaksinmore-git1)
-
----
-
-# 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=palaksinmore-git1&color=blue)
