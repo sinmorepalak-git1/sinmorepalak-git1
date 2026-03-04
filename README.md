@@ -18,26 +18,35 @@ Data Analytics Enthusiast | Python Learner | BTech Student
 🌱 Currently learning **Python, Pandas, ML**
 
 ---
-## 🛠️ Skills
+## 🔥 Skills
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,androidstudio,vercel,tensorflow,react,js,firebase,flutter" />
+<p align="left">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=orange"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
+
 </p>
+## 📌 Projects
 
-<p align="center">
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-</p>
+🚀 **Data Analysis Project**  
+Data visualization and analysis using Python and Pandas.
 
-# 📌 Projects
+📊 **Machine Learning Model**  
+Prediction model using Scikit-learn.
 
-🚀 Data Analysis Project  
-📊 Machine Learning Prediction Model  
-📈 Data Visualization Dashboard  
-
----
-
+📈 **Analytics Dashboard**  
+Interactive dashboard built for data insights.
 # 🌐 Connect With Me
 
 <p align="center">
@@ -53,6 +62,14 @@ Data Analytics Enthusiast | Python Learner | BTech Student
 <a href="https://github.com/palaksinmore-git1">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
+
+</p>
+
+## 🧰 Languages and Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pandas,numpy,mysql,git,github,figma,js,react,nodejs,mongodb,vscode" />
 
 </p>
 
