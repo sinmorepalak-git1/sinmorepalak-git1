@@ -18,16 +18,17 @@ Data Analytics Enthusiast | Python Learner | BTech Student
 🌱 Currently learning **Python, Pandas, ML**
 
 ---
-
-# 🛠️ Skills
+## 🛠️ Skills
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pandas,numpy,mysql,git,github,figma,js" />
-
+<img src="https://skillicons.dev/icons?i=python,mysql,androidstudio,vercel,tensorflow,react,js,firebase,flutter" />
 </p>
 
----
+<p align="center">
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
 
 # 📌 Projects
 
