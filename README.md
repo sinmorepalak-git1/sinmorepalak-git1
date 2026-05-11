@@ -19,7 +19,6 @@ Data Analytics Enthusiast | Python Learner | BTech Student
 
 ---
 
-
 ## 🔥 Skills
 
 <p align="left">
@@ -41,9 +40,9 @@ Data Analytics Enthusiast | Python Learner | BTech Student
 <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
 
 </p>
-logo=git"/>
 
-</p>
+---
+
 ## 📌 Projects
 
 🚀 **Data Analysis Project**  
@@ -54,6 +53,9 @@ Prediction model using Scikit-learn.
 
 📈 **Analytics Dashboard**  
 Interactive dashboard built for data insights.
+
+---
+
 # 🌐 Connect With Me
 
 <p align="center">
@@ -62,7 +64,7 @@ Interactive dashboard built for data insights.
 <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram"/>
 </a>
 
-<a href="https://linkedin.com/Palak Sinmore">
+<a href="https://linkedin.com/in/palak-sinmore">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -72,8 +74,7 @@ Interactive dashboard built for data insights.
 
 </p>
 
-  
-
+---
 
 ## 🧰 Languages and Tools
 
@@ -113,11 +114,11 @@ Interactive dashboard built for data insights.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50"/>
 
-</p>
+<!-- Cursor -->
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
 
-
-</p>
-
+<!-- Antigravity -->
+<img src="https://img.shields.io/badge/Antigravity-111111?style=for-the-badge&logo=apachespark&logoColor=white"/>
 
 </p>
 
@@ -125,11 +126,8 @@ Interactive dashboard built for data insights.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=palaksinmore-git1\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=palaksinmore-git1&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palaksinmore-git1\&layout=compact\&theme=tokyonight)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palaksinmore-git1&layout=compact&theme=tokyonight)
 
 ---
-
-
